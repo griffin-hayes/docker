@@ -14,9 +14,9 @@ This is a simple project that shows how to run a Java program using Docker.
 
 ## What Docker Did
 
--Docker created an image that included the compiled code
--The image was turned into a container that ran the program
--It printed the output as if it was running on any computer
+1. Docker created an image that included the compiled code
+2. The image was turned into a container that ran the program
+3. It printed the output as if it was running on any computer
 
 
 ## Notes
