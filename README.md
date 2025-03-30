@@ -24,3 +24,4 @@ This is a simple project that shows how to run a Java program using Docker.
 - Make sure the Dockerfile uses the correct path to your compiled class file.
 - Use the correct Java version in Docker to match your compiled file (Switching the ProjectSDK to SDK 23 fixed error).
 - Build and run using the terminal with `docker build` and `docker run`, where docker runs the containerized project.
+- Possible errors include versions of SDK that aren't connected with the docker, or SDK versions that need updates.
